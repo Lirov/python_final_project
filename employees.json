@@ -1,0 +1,113 @@
+{
+    "employees" : [
+        {
+            "employee_id": 1,
+            "name" : "Zachery",
+            "surname" : "Ziolkowski",
+            "email" : "zziolkowski@iwork.com",
+            "phone_number" : 555101234,
+            "salary" : "12.000$",
+            "job_id" : "accounting",
+            "department_id" : 30
+        },
+
+        {
+            "employee_id": 2,
+            "name" : "Hilde",
+            "surname" : "Hollenbeck",
+            "email" : "hhollenbeck@iwork.com",
+            "phone_number" : 555101235,
+            "salary" : "12.000$",
+            "job_id" : "accounting",
+            "department_id" : 30
+        },
+
+        {
+            "employee_id": 3,
+            "name" : "Traci",
+            "surname" : "Tobia",
+            "email" : "ttobia@iwork.com",
+            "phone_number" : 555101236,
+            "salary" : "12.000$",
+            "job_id" : "accounting",
+            "department_id" : 30
+        },
+
+        {
+            "employee_id": 4,
+            "name" : "Luigi",
+            "surname" : "Lineman",
+            "email" : "llineman@iwork.com",
+            "phone_number" : 555101237,
+            "salary" : "13.000$",
+            "job_id" : "advertising",
+            "department_id" : 40
+        },
+
+        {
+            "employee_id": 5,
+            "name" : "Denny",
+            "surname" : "Deacon",
+            "email" : "ddeacon@iwork.com",
+            "phone_number" : 556111234,
+            "salary" : "13.000$",
+            "job_id" : "advertising",
+            "department_id" : 40
+        },
+
+        {
+            "employee_id": 6,
+            "name" : "Loise",
+            "surname" : "Levert",
+            "email" : "llevert@iwork.com",
+            "phone_number" : 556111235,
+            "salary" : "13.000$",
+            "job_id" : "advertising",
+            "department_id" : 40
+        },
+
+        {
+            "employee_id": 7,
+            "name" : "Felisha",
+            "surname" : "Fellers",
+            "email" : "ffellers@iwork.com",
+            "phone_number" : 556111236,
+            "salary" : "15.000$",
+            "job_id" : "management",
+            "department_id" : 10
+        },
+
+        {
+            "employee_id": 8,
+            "name" : "Stefan",
+            "surname" : "Sebring",
+            "email" : "ssebring@iwork.com",
+            "phone_number" : 553121236,
+            "salary" : "15.000$",
+            "job_id" : "management",
+            "department_id" : 10
+        },
+
+        {
+            "employee_id": 9,
+            "name" : "Jodie",
+            "surname" : "Jarmon",
+            "email" : "jjarmon@iwork.com",
+            "phone_number" : 553121237,
+            "salary" : "13.000$",
+            "job_id" : "IT",
+            "department_id" : 20
+        },
+
+        {
+            "employee_id": 10,
+            "name" : "Wilson",
+            "surname" : "Watley",
+            "email" : "wwatley@iwork.com",
+            "phone_number" : 553121238,
+            "salary" : "13.000$",
+            "job_id" : "IT",
+            "department_id" : 20
+        }
+    ]
+}
