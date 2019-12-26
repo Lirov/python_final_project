@@ -1,0 +1,16 @@
+{% extends 'base_layout.html' %}
+{% block content %}
+
+<div class="employees-list">
+    <div class="Employee">
+
+        <img src="{{Employee.thumb.url}} " align="middle"/>
+        <h2>{{Employee.title }}</h2>
+        <h3>{{Employee.body }}</h3>
+        <h3>{{Employee.director }}</h3>
+        <h3>{{Employee.cast }}</h3>
+        <h3>{{Employee.release_date }}</h3>
+
+    </div>
+</div>
+{% endblock %}

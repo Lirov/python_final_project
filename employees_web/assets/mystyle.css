@@ -1,0 +1,16 @@
+
+body {
+  background-image: url("homepage_background.jif");
+  background-repeat: repeat-y;
+  background-position: center;
+}
+
+h1 {
+  font-family: "verdana", Times, serif;
+  font-size: 60px;
+  text-align: center;
+  color: black;
+  text-shadow: 2px 2px 4px #FFFFFF;
+}
+
+}
